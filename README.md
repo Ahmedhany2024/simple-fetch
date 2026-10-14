@@ -7,7 +7,7 @@
 - memory usage
 - uptime
 - cpu name
-- #build
+##build
 '''sh
 gcc hash_fetch.c -o hashfetch
 '''sh
