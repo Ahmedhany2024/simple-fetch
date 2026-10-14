@@ -1,4 +1,5 @@
 # Hash fetch
+
 - simple terminal fetch for Linux distros with no ascii
 - only shows :
 - user name
@@ -7,8 +8,12 @@
 - memory usage
 - uptime
 - cpu name
-##build
-'''sh
+
+##Build
+```sh
 gcc hash_fetch.c -o hashfetch
-'''sh
+```
+
+```sh
 sudo install hash_fetch /usr/bin/
+```
